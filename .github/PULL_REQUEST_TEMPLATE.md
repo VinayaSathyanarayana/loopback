@@ -3,7 +3,7 @@
 
 #### Related issues (ie. strongloop/loopback#49, etc)
 
-- 
+- N/A
 
 ### Checklist
 
