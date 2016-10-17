@@ -1,7 +1,7 @@
 ### Description
 
 
-#### Related issues (ie. strongloop/loopback#49, etc)
+#### Related issues (eg. strongloop/loopback#49)
 
 - None
 
