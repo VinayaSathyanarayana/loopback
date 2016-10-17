@@ -1,4 +1,9 @@
-### Description of change(s)
+### Description
+
+
+#### Related issues (ie. strongloop/loopback#49, etc)
+
+- 
 
 ### Checklist
 
@@ -11,7 +16,3 @@
   guide](http://loopback.io/doc/en/contrib/style-guide.html)
 - [ ] All CI builds are passing (semi-required, left up to discretion of the
   reviewer)
-
-### Link(s) to related GitHub issues
-
-- 
